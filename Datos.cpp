@@ -17,5 +17,6 @@ int main()
     cout << "Fecha: 29 de Enero de 2024  " << endl;
     cout << "Carrera: Computacion" << endl;
     cout << "Semestres: 2do" << endl;
+    cout << "Esto lo acabo de agregar en forma de prueba para actualizarlo en Git hub " << endl;
     return 0;
 }

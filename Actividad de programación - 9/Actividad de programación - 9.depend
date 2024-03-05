@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1709600790 source:c:\users\usuario\documents\documento\nueva carpeta\actividad de programación - 9\conjuntos.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+
+1709617636 source:c:\users\usuario\documents\documento\nueva carpeta\actividad de programación - 9\main.cpp
+	<iostream>
+	"conjunto.h"
+
+1709600906 c:\users\usuario\documents\documento\nueva carpeta\actividad de programación - 9\conjuntos.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+
+1709617057 source:c:\users\usuario\documents\documento\nueva carpeta\actividad de programación - 9\conjunto.cpp
+	"conjunto.h"
+	<algorithm>
+
+1709617131 c:\users\usuario\documents\documento\nueva carpeta\actividad de programación - 9\conjunto.h
+	<vector>
+
